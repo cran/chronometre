@@ -1,0 +1,10 @@
+4a165e29a799baebbfb3fdd7c7ba2bbd *ChangeLog
+877083d5e246fd1c89bdc74f81329b0f *DESCRIPTION
+045a41412e63142576e958b4e1f3dc1f *NAMESPACE
+6a4268a3acd28d44c4f2bb671ed9cde1 *README.md
+d1e4f2c68a08caae3b61686c0c9964a5 *build/partial.rdb
+d6f7941bf9a6ef935a64d9d1a21c1467 *demo/00Index
+abcb8df6df678c21f09860293d88e3e0 *demo/chronometre.R
+b4abfcb1bba421ac9f6e171874ce54d8 *inst/NEWS.Rd
+d11301cfbfa35408dc3e3b62f01d365c *inst/tinytest/test_stopwatch.R
+23baa5a6acb31b8460caf03452e49ce4 *man/chronometre-package.Rd
